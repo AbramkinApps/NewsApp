@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">NewsApp</string>
     <string name="popular_news">Popular News</string>
+    <string name="search">search</string>
+    <string name="musk_invited">Musk invited</string>
 
 </resources>
